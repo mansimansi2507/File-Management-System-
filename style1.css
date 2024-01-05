@@ -1,0 +1,53 @@
+.body{
+    background: linear-gradient(rgba(234, 226, 226, 0.5), rgba(234, 226, 226, 0.5)), url(bg.jpg);
+}
+.head{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(38, 38, 78);
+}
+.subhead{
+    font-weight: bolder;
+    font-size: 35px;
+    color: rgb(9, 60, 79);
+    margin-left: 20%;
+}
+.line{
+    border: 2px solid;
+    color: rgb(38, 38, 78);
+}
+.form{
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+.formlabel{
+    font-size: 25px;
+}
+.formin{
+    margin-left: 80px;
+    font-size: 23px;
+}
+.sub{
+    font-size: 25px;
+    width: 200px;
+    border-radius: 5px;
+    border-width: 2px;
+    background-color: rgb(22, 65, 107);
+    color: white;
+}
+.tab{
+    font-size: 25px;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.down{
+    font-size: 25px;
+    width: 200px;
+    border-radius: 5px;
+    border-width: 2px;
+    background-color: rgb(22, 65, 107);
+    color: white;
+    margin-left: 45px;
+}
+
